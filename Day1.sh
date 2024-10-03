@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 mkdir my_project
 cd my_project
